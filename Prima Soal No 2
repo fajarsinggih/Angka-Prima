@@ -48,6 +48,7 @@ tian=true;
 if (tian)  
 {  
 System.out.printf(i+",");  
+System.out.println("");
 }  
         }  
     }  
